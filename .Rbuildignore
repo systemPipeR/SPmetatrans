@@ -1,0 +1,7 @@
+^README\.Rmd$
+^logs\.sh$
+^_pkgdown\.yml$
+^SPmetatrans\.Rproj$
+^\.Rproj\.user$
+^inst/rmarkdown/templates/SPmetatrans/skeleton/.batchtools.conf.R
+^\.github

@@ -1,0 +1,12 @@
+# the following folder will not be tracked.
+# following files will be ignored.
+.swp
+logs.sh
+.Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+vignettes/*_cache/*
+vignettes/*.html
+

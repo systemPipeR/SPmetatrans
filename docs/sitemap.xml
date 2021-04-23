@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://girke.bioinformatics.ucr.edu/systemPipeR//index.html</loc>
+    <loc>https://systempipe.org/SPmetatrans//index.html</loc>
   </url>
   <url>
-    <loc>http://girke.bioinformatics.ucr.edu/systemPipeR//articles/systemPipeMetaTrans.html</loc>
+    <loc>https://systempipe.org/SPmetatrans//articles/SPmetatrans.html</loc>
   </url>
 </urlset>

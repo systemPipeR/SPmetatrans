@@ -1,5 +1,5 @@
-title: systemPipeMetaTrans
-url: http://girke.bioinformatics.ucr.edu/systemPipeR/
+title: SPmetatrans
+url: https://systempipe.org/SPmetatrans/
 authors:
    Daniela Cassol:
      href: https://www.dcassol.com/
@@ -7,27 +7,14 @@ authors:
      href: http://girke.bioinformatics.ucr.edu/
 home:
   links:
-  - text: Download from Bioconductor
-    href: http://www.bioconductor.org/packages/release/bioc/html/systemPipeR.html
-  - text: Ask a question about systemPipeR
-    href: https://support.bioconductor.org/
+  - text: Download from Github
+    href: https://github.com/systemPipeR/SPmetatrans/
   - text: Report a bug
-    href: https://github.com/tgirke/systemPipeR/issues
+    href: https://github.com/systemPipeR/SPmetatrans/issues
 template:
   params:
-    docsearch:
-#\      api_key: 
-#      index_name: 
-      bootswatch: flatly
-    ganalytics: UA-158796879-1
-navbar:
-  title: "systemPipeMetaTrans"
-  left:
-    - icon: fas fa-home fa-lg
-      href: index.html
-    - text: "Workflow"
-      href: articles/systemPipeMetaTrans.html
-      icon: fas fa-book
-  right:
-    - icon: fa-github fa-lg
-      href: https://github.com/systemPipeR/systemPipeMetaTrans
+    ganalytics: G-CCMXLYXWYV
+    bootswatch: flatly
+#    docsearch:
+#      api_key: API_KEY
+#      index_name: INDEX_NAME
